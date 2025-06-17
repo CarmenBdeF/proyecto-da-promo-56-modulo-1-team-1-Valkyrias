@@ -4,7 +4,7 @@
 Este proyecto consiste en el desarrollo de cuatro juegos clásicos implementados en Python, creados por el equipo VALKYRIAS como parte de un curso de Data Analytics en Adalab. Los juegos incluyen:
 
     - Piedra, Papel o Tijeras
-    - rivial de Geografía
+    - Trivial de Geografía
     - Juego del Ahorcado
     - Tres en Raya (Bonus)
 
